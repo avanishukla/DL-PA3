@@ -1,0 +1,1 @@
+python train.py --lr 0.001 --batch_size 500 --init 1 --save_dir some_dir/ --dropout_prob 1 --decode_method 0 --beam_width 1 --epochs 100 --train train.csv --val valid.csv
